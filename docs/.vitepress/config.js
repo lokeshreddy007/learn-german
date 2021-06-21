@@ -24,9 +24,10 @@ module.exports = {
         ]
       },
       {
-        text: 'Advanced',
+        text: 'German A1',
         children:[
-          {text: 'Nouns',link:'/nouns/'},
+          {text: 'Essential 1',link:'/a1/essential1/'},
+          {text: 'Essential 2',link:'/a1/essential2/'},
         ]
       }
     ]
